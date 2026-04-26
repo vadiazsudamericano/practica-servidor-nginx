@@ -81,9 +81,9 @@ Figura 1-1. Diagrama de flujo de datos y manipulación de archivos entre Host y 
 
 ## 9. Resultados esperados:
 Se logró el despliegue de dos servidores web diferenciados. A continuación, se presentan las capturas de pantalla que validan el funcionamiento de los puertos 8089 (Institucional) y 8090 (Personal).
-(captura1.png)
-(captura2.png)
-(captura3.png)
+![Captura de pantalla de la terminal](captura1.png)
+![Captura de resultado de caontenedor con información de la estudiante](captura2.png)
+![Captura de resultado de caontenedor con información del instituto](captura3.png)
 
 
 ## 10. Bibliografía
