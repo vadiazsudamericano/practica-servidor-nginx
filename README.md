@@ -91,4 +91,3 @@ Docker Inc. (2026). Docker Command Line Interface (CLI) Reference. Recuperado de
 
 Nginx, Inc. (2025). Beginner's Guide to Nginx Administration.
 
-Stallings, W. (2026). Sistemas Operativos y Tecnologías de Contenedores. Cuenca, Ecuador: Editorial Sudamericana.
